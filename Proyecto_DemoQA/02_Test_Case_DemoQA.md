@@ -1,5 +1,3 @@
-# 📊 Matriz de Casos de Prueba - DemoQA
-
-Para visualizar la documentación completa con el formato original, colores y evidencias, accede al siguiente enlace:
+#   02_Test_Case_DemoQA_En_Google_Sheet
 
 👉 [**CLIC AQUÍ PARA ABRIR EN GOOGLE SHEETS**](https://docs.google.com/spreadsheets/d/1Co5AWiG_LNOHhTk-9tJIAB2TLGEb8oZWCKID06gBoMY/edit?gid=997245755#gid=997245755)
