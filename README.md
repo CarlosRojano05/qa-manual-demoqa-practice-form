@@ -28,7 +28,7 @@ Verificar que el formulario cumpla con:
 ## 📄 Artefactos del Proyecto
 Dentro de este repositorio encontrarás la documentación técnica organizada según el ciclo de vida del testing:
 
-* **[01_Test_Plan_DemoQA](./01_Test_Plan_DemoQA.md):** Estrategia, alcance y criterios de aceptación.
+* **[01_Test_Plan_DemoQA]:** Estrategia, alcance y criterios de aceptación.
 * **[02_Test_Cases_DemoQA](./02_Test_Cases_DemoQA.md):** Matriz detallada con los 12 escenarios de prueba y acceso a la nube.
 * **[03_Test_Execution_Report](./03_Test_Execution_Report.md):** Registro de resultados de cada ejecución.
 * **[05 Final_QA_Report](./04_Final_QA_Report.md):** Informe final con conclusiones, métricas de calidad y recomendaciones.
