@@ -28,10 +28,10 @@ Verificar que el formulario cumpla con:
 ## 📄 Artefactos del Proyecto
 Dentro de este repositorio encontrarás la documentación técnica organizada según el ciclo de vida del testing:
 
-* **[01_Test_Plan_DemoQA]:** Estrategia, alcance y criterios de aceptación.
-* **[02_Test_Cases_DemoQA]:** Matriz detallada con los 12 escenarios de prueba y acceso a la nube.
-* **[03_Test_Execution_Report]:** Registro de resultados de cada ejecución.
-* **[05 Final_QA_Report]:** Informe final con conclusiones, métricas de calidad y recomendaciones.
+* **[01_Test_Plan_DemoQA][Ver Test Plan en Google Drive](https://drive.google.com/file/d/1h5D3g3xraXECmVdiU9RHOR2LLRhrKckH/view?usp=sharing):** Estrategia, alcance y criterios de aceptación.
+* **[02_Test_Cases_DemoQA][Ver Test Cases en Google Drive](https://docs.google.com/spreadsheets/d/1Co5AWiG_LNOHhTk-9tJIAB2TLGEb8oZWCKID06gBoMY/edit?gid=997245755#gid=997245755):** Matriz detallada con los 12 escenarios de prueba y acceso a la nube.
+* **[03_Test_Execution_Report][Ver Test Execution en Google Drive](https://docs.google.com/spreadsheets/d/1Co5AWiG_LNOHhTk-9tJIAB2TLGEb8oZWCKID06gBoMY/edit?gid=793939516#gid=793939516):** Registro de resultados de cada ejecución.
+* **[05 Reporte_Final_QA_Report][Ver Reporte_Final en Google Drive](https://drive.google.com/file/d/1rKU1JkBG5Psyf4M8wPVcuF6qZVJ1KJpr/view?usp=sharing):** Informe final con conclusiones, métricas de calidad y recomendaciones.
 
 ---
 **Carlos Manuel Rojano Camargo** *QA Manual | Testing Funcional*
